@@ -1,6 +1,0 @@
-S5 carpets      0002
-carpets      0.15
-A3 curtains     0004
-3A towels       0002
-A2 curtains     0007
-R1 carpets      0005
